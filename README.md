@@ -1,15 +1,15 @@
 🚀 Project Title & Tagline
 ===========================
-**SyntaxSwap: AI-Powered Interview Coach** 🤖
+**ByteConvert: AI-Powered Interview Coach** 🤖
  Revolutionizing the way you prepare for technical interviews with AI-driven insights and personalized feedback.
 
 📖 Description
 ---------------
-SyntaxSwap is an innovative React-based project that utilizes the power of artificial intelligence to help individuals prepare for technical interviews. The platform provides users with a comprehensive set of tools and resources to improve their coding skills, practice common interview questions, and receive personalized feedback on their performance. With its user-friendly interface and robust feature set, SyntaxSwap aims to become the go-to platform for anyone looking to ace their next technical interview.
+ByteConvert is an innovative React-based project that utilizes the power of artificial intelligence to help individuals prepare for technical interviews. The platform provides users with a comprehensive set of tools and resources to improve their coding skills, practice common interview questions, and receive personalized feedback on their performance. With its user-friendly interface and robust feature set, SyntaxSwap aims to become the go-to platform for anyone looking to ace their next technical interview.
 
 The project is built using a modern tech stack, including React, Vite, and Tailwind CSS, ensuring a fast, scalable, and maintainable architecture. The codebase is well-organized, with a focus on modularity, reusability, and readability. Whether you're a seasoned developer or just starting out, SyntaxSwap is the perfect tool to help you take your coding skills to the next level.
 
-SyntaxSwap is more than just a project - it's a community-driven initiative that aims to make technical interview preparation more accessible and enjoyable. With its open-source codebase and collaborative development process, SyntaxSwap invites developers from around the world to contribute, provide feedback, and help shape the future of the platform.
+ByteConvert is more than just a project - it's a community-driven initiative that aims to make technical interview preparation more accessible and enjoyable. With its open-source codebase and collaborative development process, SyntaxSwap invites developers from around the world to contribute, provide feedback, and help shape the future of the platform.
 
 ✨ Features
 -----------
@@ -60,8 +60,8 @@ To test the application, follow these steps:
 3. **End-to-End Tests**: Run `npm run test:e2e` or `yarn test:e2e` to execute end-to-end tests.
 
 ## 🚀 Deployed Link  
-[👉 Visit syntaxswap](https://syntaxswap.netlify.app/)
+[👉 Visit syntaxswap](https://byteconvert.netlify.app/ )
 
 👤 Author
 ----------
-SyntaxSwap is maintained by [Suryank Malik](https://srynkdev.netlify.app/).
+ByteConvert is maintained by [Suryank Malik](https://suryankdom.netlify.app/).
